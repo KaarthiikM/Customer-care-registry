@@ -1,3 +1,5 @@
+         "Client-Focused Web Developer | IBM Project Experience | Expertise in HTML, CSS, JavaScript, Python | Proficient with IBM Cloud, Containers, Object Storage | Cloud App Project | [11/2022-02/2023]"
+
 ![Project-banner](https://user-images.githubusercontent.com/91838287/197243601-4850b7aa-dd21-4f4e-be34-233c17edf5de.jpg)
 
 
